@@ -25,13 +25,11 @@
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"  title="Node" alt="Node" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" title="HTML"  alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" title="python" alt="python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ---
