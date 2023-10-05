@@ -10,7 +10,7 @@
 - 🌱 Just Exploring new Technical stuffs.
 - ⚡ In my free time I love to watch business case studies, solve problems on Leetcode and read books.
 - 📫 How to reach me: &nbsp;bhargavaaryan007@gmail.com
-  👔 My linked Handle: &nbsp;https://www.linkedin.com/in/aryan-bhargava-2ab985233  
+-  👔 My linked Handle: &nbsp;https://www.linkedin.com/in/aryan-bhargava-2ab985233  
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
