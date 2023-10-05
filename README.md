@@ -29,7 +29,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" title="HTML"  alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" title="python" alt="python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+ <img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 
