@@ -1,6 +1,7 @@
 <h1 align="center">Hey there✌️This side is Aryan Bhargava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1050&color=051116&background=FF258D00&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer+from+India;Coding+is+not+just+code%2C+that+is+a+live+thing+to+serve+everyone!;Believing+in+making+money+work+for+me" alt="Typing SVG" /></a>
 
 ### :man_technologist: &nbsp;About Me :
 
