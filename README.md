@@ -20,12 +20,12 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/3600/3600912.png" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/721/721791.png" title="Javascript" alt="JS" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+<a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,extension%20to%20the%20C%20language."><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;
+<a href="https://www.w3schools.com/c/c_intro.php"><img src="https://cdn-icons-png.flaticon.com/128/3600/3600912.png" title="C" alt="C" width="40" height="40"/></a>&nbsp;
+<a href="https://www.w3schools.com/js/js_intro.asp"><img src="https://cdn-icons-png.flaticon.com/128/721/721791.png" title="Javascript" alt="JS" width="40" height="40"/></a>&nbsp;
+<a href="https://www.w3schools.com/css/css_intro.asp"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
+<a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;
+<a href="https://www.geeksforgeeks.org/introduction-to-tailwind-css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" title="Tailwind" alt="Tailwind" width="40" height="40"/></a>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"  title="Node" alt="Node" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
