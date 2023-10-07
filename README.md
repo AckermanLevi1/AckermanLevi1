@@ -26,14 +26,14 @@
 <a href="https://www.w3schools.com/css/css_intro.asp"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
 <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;
 <a href="https://www.geeksforgeeks.org/introduction-to-tailwind-css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" title="Tailwind" alt="Tailwind" width="40" height="40"/></a>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"  title="Node" alt="Node" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" title="HTML"  alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" title="python" alt="python" width="40" height="40"/>&nbsp;
- <img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<a href="https://www.w3schools.com/nodejs/nodejs_intro.asp"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"  title="Node" alt="Node" width="40" height="40"/></a>&nbsp;
+<a href="https://www.geeksforgeeks.org/reactjs-introduction/"><img src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png" title="React" alt="React" width="40" height="40"/></a>&nbsp;
+<a href="https://www.geeksforgeeks.org/introduction-to-express/"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="Express" alt="Express" width="40" height="40"/></a>&nbsp;
+<a href="https://www.geeksforgeeks.org/mongodb-an-introduction/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/></a>&nbsp;
+<a href="https://www.w3schools.com/html/html_intro.asp"><img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" title="HTML"  alt="HTML" width="40" height="40"/></a>&nbsp;
+<a ref="https://www.w3schools.com/sql/sql_intro.asp"><img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL"  alt="SQL" width="40" height="40"/></a>&nbsp;
+<a href="https://www.w3schools.com/python/python_intro.asp"><img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" title="python" alt="python" width="40" height="40"/></a>&nbsp;
+ <a href="https://www.w3schools.com/git/git_intro.asp?remote=github"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;
 </p>
 
 
