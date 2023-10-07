@@ -9,9 +9,14 @@
 - 🔭 I'm currently a student at IIT Varanasi.
 - 🌱 Just Exploring new Technical stuffs.
 - ⚡ In my free time I love to watch business case studies, solve problems on Leetcode and read books.
-- 📫 How to reach me: &nbsp;bhargavaaryan007@gmail.com
--  👔 My linked Handle: &nbsp;https://www.linkedin.com/in/aryan-bhargava-2ab985233  
 ---
+### :man_technologist: &nbsp;Connect with Me :
+<p>
+  <a href="https://www.linkedin.com/in/aryan-bhargava-2ab985233"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" title="Linked In" alt="Linked In" width="40" height="40"/></a>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/3600/3600912.png" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/721/721791.png" title="Javascript" alt="JS" width="40" height="40"/>&nbsp;
+</p>
+
 
 ### 🛠 &nbsp;Languages and Tools :
 
