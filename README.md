@@ -4,9 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1050&color=051116&background=FF258D00&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer+from+India;Coding+is+not+just+code%2C+that+is+a+live+thing+to+serve+everyone!;Believing+in+making+money+work+for+me" alt="Typing SVG" /></a>
 
 ### :man_technologist: &nbsp;About Me :
-
  An Enthusiastic Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="" width="300" >
 - 🔭 I'm currently a student at IIT Varanasi.
 - 🌱 Just Exploring new Technical stuffs.
 - ⚡ In my free time I love to watch business case studies and read books.
