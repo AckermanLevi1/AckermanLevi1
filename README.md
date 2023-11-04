@@ -1,7 +1,13 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AckermanLevi1&label=Profile%20views&color=0e75b6&style=flat" alt="tushar2930" /> </p>
 <h1 align="center">Hey there✌️This side is Aryan Bhargava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1050&color=051116&background=FF258D00&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer+from+India;Coding+is+not+just+code%2C+that+is+a+live+thing+to+serve+everyone!;Believing+in+making+money+work+for+me" alt="Typing SVG" /></a>
+
+### :man_technologist: &nbsp;Github Trophies  :
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AckermanLevi1" alt="AckermanLevi1" /></a> </p>
+
+---
 
 ### :man_technologist: &nbsp;About Me :
  An Enthusiastic Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
@@ -41,8 +47,13 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AckermanLevi1&show_icons=true&locale=en&layout=compact" alt="tushar2930" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AckermanLevi1&show_icons=true&locale=en&layout=compact" alt="AckermanLevi1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AckermanLevi1&show_icons=true&locale=en" alt="tushar2930" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AckermanLevi1&show_icons=true&locale=en" alt="AckermanLevi1" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AckermanLevi1&" alt="tushar2930" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AckermanLevi1&" alt="AckermanLevi1" /></p>
+
+
+
+---
+
