@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AckermanLevi1&label=Profile%20views&color=0e75b6&style=flat" alt="tushar2930" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AckermanLevi1&label=Profile%20views&color=0e75b6&style=flat" alt="AckermanLevi1" /> </p>
 <h1 align="center">Hey there✌️This side is Aryan Bhargava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
