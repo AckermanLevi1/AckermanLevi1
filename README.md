@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently a student at IIT Varanasi.
 - 🌱 Just Exploring new Technical stuffs.
-- ⚡ In my free time I love to watch business case studies, solve problems on Leetcode and read books.
+- ⚡ In my free time I love to watch business case studies and read books.
 ---
 ### :man_technologist: &nbsp;Connect with Me :
 <p>
