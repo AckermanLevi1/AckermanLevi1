@@ -7,7 +7,7 @@
 ### :man_technologist: &nbsp;Github Trophies  :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AckermanLevi1" alt="AckermanLevi1" /></a> </p>
 
----
+[![An image of @aryanlavi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanlavi)](https://holopin.io/@aryanlavi)
 
 ### :man_technologist: &nbsp;About Me :
  An Enthusiastic Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
