@@ -20,7 +20,7 @@
 <p>
   <a href="https://www.linkedin.com/in/aryan-bhargava-2ab985233" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" title="Linked In" alt="Linked In" width="40" height="40"/></a>&nbsp;
 <a href="mailto:bhargavaaryan007@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Gmail" alt="Gmail" width="40" height="40"/></a>&nbsp;
-<a href="https://leetcode.com/golden_boy/" target="_blank"><img src="https://img.icons8.com/?size=80&id=wDGo581Ea5Nf&format=png" title="leetcode" alt="JS" width="40" height="40"/></a>&nbsp;
+<a href="https://leetcode.com/Aryan__25/" target="_blank"><img src="https://img.icons8.com/?size=80&id=wDGo581Ea5Nf&format=png" title="leetcode" alt="JS" width="40" height="40"/></a>&nbsp;
 </p><hr>
 
 ### 🛠 &nbsp;Languages and Tools :
